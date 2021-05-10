@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-CSS-blue" alt="badge CSS"/>
     <img src="https://img.shields.io/badge/-REACT-blue alt="badge React" />
     <img src="https://img.shields.io/badge/-TYPESCRIPT-blue" alt="badge TypeScript"/>
-    <img src=" https://img.shields.io/badge/-JAVA11-red" alt="badge Java"/>
+    <img src="https://img.shields.io/badge/-JAVA11-red" alt="badge Java"/>
     <img src="https://img.shields.io/badge/-SPRING-green" alt="badge Spring"/>
 </h1>
 
